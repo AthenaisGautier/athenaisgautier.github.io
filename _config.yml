@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Athénaïs Gautier's page"
+title                    : "Athénaïs Gautier's homepage"
 title_separator          : "-"
 name                     : &name "Athénaïs Gautier"
 description              : &description "personal description"

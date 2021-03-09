@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
+* M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
+* M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
+* Ph.D in Statistics, University of Bern (Bern, Switzerland), 2018 - 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+
+* Summer 2017: Engineering Intern
+  * ELM Leblanc SAS (Drancy, France)
+  * Working on "data integration for smart energetic systems"
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Mar. - Oct. 2018: Research Intern
+  * Idiap Research Institute (Martigny, Switzerland)
+  * Working on "Statistical and machine learning approaches to optimization problems under un-
+certainty arising in energy planning".
+  * Supervisor: Pr. Ginsbourger
+
+* Nov. 2018 - May. 2020: Research Assistant
+  * Idiap Research Institute (Martigny, Switzerland)
+  * PhD candidate, member of the "Uncertainty Quantication and Optimal Design" group, working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
+  * Supervisor: Pr. Ginsbourger
+
+* May. 2018 - Actual: Research Assistant
+  * University of Bern (Bern, Switzerland)
+  * PhD candidate working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
+  * Supervisor: Pr. Ginsbourger
+
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Teaching assistant
+  * Mathematics and Statistics Department, University of Bern.
+    * Optimization methods (Spring semester 2019).
+    * Statistics for climate sciences I/II (Fall semester 2019, spring semester 2020, Fall semester 2020).
+  * Master AI : Idiap Research Institute and Unidistance
+    * Foundations in statistics for AI (Spring semester 2019 and 2020).
+
 
 Publications
 ======
@@ -48,12 +63,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
