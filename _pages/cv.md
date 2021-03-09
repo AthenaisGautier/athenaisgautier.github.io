@@ -49,18 +49,3 @@ Teaching
     * Statistics for climate sciences I/II (Fall semester 2019, spring semester 2020, Fall semester 2020).
   * Master AI : Idiap Research Institute and Unidistance
     * Foundations in statistics for AI (Spring semester 2019 and 2020).
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
