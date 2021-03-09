@@ -2,8 +2,8 @@
 title: "Probabilistic ABC with Spatial Logistic Gaussian Process modelling"
 collection: publications
 permalink: /publication/2020-12-paper-number-1
-excerpt: this paper is about...
-date: 2020
+excerpt: This paper is about...
+date: 2020-12-11
 venue: 'Third Workshop on Machine Learning and the Physical Sciences, NeurIPS 2020'
 paperurl: 'https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_112.pdf'
 ---
