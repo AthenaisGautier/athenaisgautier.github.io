@@ -17,23 +17,23 @@ Education
 Work experience
 ---
 
-* Summer 2017: Engineering Intern
+* __Engineering Intern__: Summer 2017
   * ELM Leblanc SAS (Drancy, France)
   * Working on "data integration for smart energetic systems"
   * Supervisor: Professor Git
 
-* Mar. - Oct. 2018: Research Intern
+* __Research Intern__: Mar. - Oct. 2018
   * Idiap Research Institute (Martigny, Switzerland)
   * Working on "Statistical and machine learning approaches to optimization problems under un-
 certainty arising in energy planning".
   * Supervisor: Pr. Ginsbourger
 
-* Nov. 2018 - May. 2020: Research Assistant
+* __Research Assistant__: Nov. 2018 - May. 2020
   * Idiap Research Institute (Martigny, Switzerland)
   * PhD candidate, member of the "Uncertainty Quantication and Optimal Design" group, working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
 
-* May. 2018 - Actual: Research Assistant
+* __Research Assistant__: May. 2018 - Actual
   * University of Bern (Bern, Switzerland)
   * PhD candidate working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
@@ -41,7 +41,7 @@ certainty arising in energy planning".
 Teaching
 ---
 
-* Teaching assistant
+* __Teaching assistant__
   * Mathematics and Statistics Department, University of Bern.
     * Optimization methods (Spring semester 2019).
     * Statistics for climate sciences I/II (Fall semester 2019, spring semester 2020, Fall semester 2020).
