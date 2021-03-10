@@ -9,23 +9,18 @@ redirect_from:
 
 Education
 ---
-* Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
-* M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
-* M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
+
 * Ph.D in Statistics, University of Bern (Bern, Switzerland), 2018 - 2022 (expected)
+* M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
+* M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
+* Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
 
 Work experience
 ---
 
-* __Engineering Intern__: Summer 2017
-  * ELM Leblanc SAS (Drancy, France)
-  * Working on "data integration for smart energetic systems"
-  * Supervisor: Professor Git
-
-* __Research Intern__: Mar. - Oct. 2018
-  * Idiap Research Institute (Martigny, Switzerland)
-  * Working on "Statistical and machine learning approaches to optimization problems under un-
-certainty arising in energy planning".
+* __Research Assistant__: May. 2018 - Actual
+  * University of Bern (Bern, Switzerland)
+  * PhD candidate working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
 
 * __Research Assistant__: Nov. 2018 - May. 2020
@@ -33,10 +28,15 @@ certainty arising in energy planning".
   * PhD candidate, member of the "Uncertainty Quantication and Optimal Design" group, working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
 
-* __Research Assistant__: May. 2018 - Actual
-  * University of Bern (Bern, Switzerland)
-  * PhD candidate working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
+* __Research Intern__: Mar. - Oct. 2018
+  * Idiap Research Institute (Martigny, Switzerland)
+  * Working on "Statistical and machine learning approaches to optimization problems under un-
+certainty arising in energy planning".
   * Supervisor: Pr. Ginsbourger
+
+* __Engineering Intern__: Summer 2017
+  * ELM Leblanc SAS (Drancy, France)
+  * Working on "data integration for smart energetic systems"
 
 Teaching
 ---
