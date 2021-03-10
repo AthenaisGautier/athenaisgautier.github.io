@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "A quick resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 Education
-===
+---
 * Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
 * M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
 * M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
 * Ph.D in Statistics, University of Bern (Bern, Switzerland), 2018 - 2022 (expected)
 
 Work experience
-===
+---
 
 * Summer 2017: Engineering Intern
   * ELM Leblanc SAS (Drancy, France)
@@ -39,7 +39,7 @@ certainty arising in energy planning".
   * Supervisor: Pr. Ginsbourger
 
 Teaching
-===
+---
 
 * Teaching assistant
   * Mathematics and Statistics Department, University of Bern.
