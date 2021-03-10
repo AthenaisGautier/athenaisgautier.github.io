@@ -15,17 +15,13 @@ author_profile: true
 Papers
 ---
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://arxiv.org/abs/2102.07612)
-
-    Status: Submitted 
-
-    Joint work with David Ginsbourger and Guillaume Pirot
+  Status: Submitted 
+  Joint work with David Ginsbourger and Guillaume Pirot
 
 
 Workshop papers
 ---
   * [*Probabilistic ABC with Spatial Logistic Gaussian Process modelling*](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_112.pdf)
-
-    Status: Published in the Third Workshop on Machine Learning and the Physical Sciences, NeurIPS 2020. 
-
-    Joint work with David Ginsbourger and Guillaume Pirot
+  Status: Published in the Third Workshop on Machine Learning and the Physical Sciences, NeurIPS 2020. 
+  Joint work with David Ginsbourger and Guillaume Pirot
 
