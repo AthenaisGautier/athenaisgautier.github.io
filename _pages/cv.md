@@ -20,18 +20,17 @@ Work experience
 
 * __Research Assistant__: May. 2018 - Actual
   * University of Bern (Bern, Switzerland)
-  * PhD candidate working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
+  * PhD candidate working on "Modelling and predicting distribution-valued fields with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
 
 * __Research Assistant__: Nov. 2018 - May. 2020
   * Idiap Research Institute (Martigny, Switzerland)
-  * PhD candidate, member of the "Uncertainty Quantication and Optimal Design" group, working on "Modelling and predicting distribution-valued elds with applications to inversion under uncertainty".
+  * PhD candidate, member of the "Uncertainty Quantification and Optimal Design" group, working on "Modelling and predicting distribution-valued fields with applications to inversion under uncertainty".
   * Supervisor: Pr. Ginsbourger
 
 * __Research Intern__: Mar. - Oct. 2018
   * Idiap Research Institute (Martigny, Switzerland)
-  * Working on "Statistical and machine learning approaches to optimization problems under un-
-certainty arising in energy planning".
+  * Working on "Statistical and machine learning approaches to optimization problems under uncertainty arising in energy planning".
   * Supervisor: Pr. Ginsbourger
 
 * __Engineering Intern__: Summer 2017
