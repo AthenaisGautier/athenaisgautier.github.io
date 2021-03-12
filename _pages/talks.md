@@ -21,14 +21,15 @@ Coming
   Venue: Online  
   Title: _Sample-based estimation of probability density fields: a spatial extension of the logistic Gaussian process_  
 
+
+Past talks 
+---
+
   * [*Workshop on "Stochastic simulators"*](https://www.gdr-mascotnum.fr/mars21.html)  
   Date: March 11, 2021  
   Venue: Online  
   Title: _Spatial logistic Gaussian process for density field modelling: an application to stochastic inverse problems_  
 
-
-Past talks 
----
   * [*Workshop on Uncertainty Propagation in Composite Models*](https://workshop.mrksr.de/)  
   Date: October 11, 2019  
   Venue: Munich, Germany  
