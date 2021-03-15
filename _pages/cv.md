@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "A quick resume"
+description: "Athénaïs Gautier's resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+{% seo %}
 
 Education
 ---
