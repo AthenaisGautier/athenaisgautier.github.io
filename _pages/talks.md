@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Upcoming and past talks"
+description: "Athénaïs Gautier's upcoming and past talks"
 permalink: /talks/
 author_profile: true
 ---

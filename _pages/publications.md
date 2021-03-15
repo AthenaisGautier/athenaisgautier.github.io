@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+description: "Athénaïs Gautier's list of publications"
 permalink: /publications/
 author_profile: true
 ---
