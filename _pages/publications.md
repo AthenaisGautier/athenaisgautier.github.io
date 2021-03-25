@@ -10,11 +10,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% seo %}
-
-
 Papers
 ---
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://arxiv.org/abs/2102.07612)  

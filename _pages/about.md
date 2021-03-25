@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-{% seo %}
-
 Welcome!
 
 Since November 2018, I am doing my PhD at the IMSV, Departement of Mathematics and Statistics, University of Bern , working on the "Uncertainty quantification and efficient design of experiments for data- and simulation-driven inverse problem solving" project under Pr. David Ginsbourger supervision.
