@@ -38,6 +38,12 @@ Work experience
   * ELM Leblanc SAS (Drancy, France)
   * Working on "data integration for smart energetic systems"
 
+Awards or distinctions
+---
+
+* __Mascot 2021 annual meeting__: Award for the best poster presentation.
+
+
 Teaching
 ---
 
