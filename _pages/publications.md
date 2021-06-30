@@ -13,7 +13,7 @@ author_profile: true
 Papers
 ---
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://arxiv.org/abs/2102.07612)  
-Status: Submitted  
+Status: Accepted
 Joint work with David Ginsbourger and Guillaume Pirot
 
 
