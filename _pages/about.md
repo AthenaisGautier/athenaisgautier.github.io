@@ -4,6 +4,7 @@ title: ""
 excerpt: "About me"
 description: "Athénaïs Gautier's homepage"
 author_profile: true
+layout: wide
 redirect_from: 
   - /about/
   - /about.html
