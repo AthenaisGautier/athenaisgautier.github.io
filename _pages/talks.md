@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "Upcoming and past talks"
 description: "Athénaïs Gautier's upcoming and past talks or events"
 permalink: /talks/

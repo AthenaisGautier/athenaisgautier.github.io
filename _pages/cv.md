@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "A quick resume"
 description: "Athénaïs Gautier's resume"
 permalink: /cv/

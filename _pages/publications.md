@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "Publications"
 description: "Athénaïs Gautier's list of publications"
 permalink: /publications/
