@@ -1,8 +1,18 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: ""
+excerpt: "About me"
+description: "Athénaïs Gautier's homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Since November 2018, I am doing my PhD at the IMSV, Departement of Mathematics and Statistics, University of Bern , working on the "Uncertainty quantification and efficient design of experiments for data- and simulation-driven inverse problem solving" project under Pr. David Ginsbourger supervision.
+
+
+My research interests include, but are not restricted to Gaussian processes and uncertainty quantification, density estimation, non-parametric Bayesian approaches, stochastic optimisation and stochastic inverse problems.  
+
