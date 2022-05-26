@@ -48,18 +48,3 @@ Awards or distinctions
 * __Mascot 2021 annual meeting__: Award for the best poster presentation.
 * __SIAM__: Recipient of a travel award for SIAM UQ 2022
 
-
-Teaching
----
-
-* __Mentoring and supervision work__
-  * Co-mentoring of Master students in statistics and data science at UniBE.
-    Was co-supervisor (main supervisor: Pr. Ginsbourger) for the Master thesis "Gaussian process regression on molecules: some performance assessments and comparisons"
-
-* __Teaching assistant__
-  * Mathematics and Statistics Department, University of Bern.
-    * Optimization methods (Spring semester 2019).
-    * Statistics for climate sciences I/II (Fall semester 2019, spring semester 2020, Fall semester 2020).
-    * Spatial statistics (spring semester 2022)
-  * Master AI : Idiap Research Institute and Unidistance
-    * Foundations in statistics for AI (Spring semester 2019 and 2020).
