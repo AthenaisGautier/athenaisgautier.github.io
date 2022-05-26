@@ -8,8 +8,8 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
-  overlay_image: /assets/images/fieldsofflowers.jpeg
-  caption: "Picture taken in Lauterbrunnen, spring 2022"
+  overlay_image: /assets/images/header.png
+  caption: "Picture taken in Schynnige Platte (Swtzerland), summer 2021"
 redirect_from: 
   - /baking/
   - /bakingandwalking/
