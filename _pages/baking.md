@@ -1,7 +1,7 @@
 ---
 permalink: /bakingandwalking/
 title: "Other things I would like to share with you..."
-caption: "Picture taken in Lauterbrunnen, spring 2022"
+
 author_profile: true
 layout: splash
 author_profile: true
@@ -9,6 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.7"
   overlay_image: /assets/images/fieldsofflowers.jpeg
+  caption: "Picture taken in Lauterbrunnen, spring 2022"
 redirect_from: 
   - /baking/
   - /bakingandwalking/
