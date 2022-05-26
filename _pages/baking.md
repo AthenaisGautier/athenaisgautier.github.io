@@ -1,15 +1,15 @@
 ---
 permalink: /bakingandwalking/
 title: "Other things I would like to share with you..."
-
+excerpt: ""
 author_profile: true
 layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
-  overlay_image: /assets/images/header.png
-  caption: "Picture taken in Schynnige Platte (Swtzerland), summer 2021"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/sunrise.jpeg
+  caption: "The Alps, as seen from the University of Bern"
 redirect_from: 
   - /baking/
   - /bakingandwalking/
