@@ -1,7 +1,7 @@
 ---
 permalink: /bakingandwalking/
 title: "Other things I would like to share with you..."
-excerpt: ""
+excerpt: "In this page, you can discover some of the things that made me happy over the past years."
 author_profile: true
 layout: splash
 author_profile: true
