@@ -16,7 +16,6 @@ feature_row:
   - image_path: assets/images/praline.png
     alt: "Pie picture"
     title: "Dessert 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/figuier.png
     alt: "Slice of cake"
     title: "Dessert 2"
