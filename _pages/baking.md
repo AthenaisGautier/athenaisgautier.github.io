@@ -8,7 +8,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  # overlay_image: /assets/images/fieldsofflowers.jpeg
+  overlay_image: /assets/images/fieldsofflowers.jpeg
 redirect_from: 
   - /baking/
   - /bakingandwalking/
