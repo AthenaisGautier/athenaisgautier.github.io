@@ -1,14 +1,13 @@
 ---
 permalink: /bakingandwalking/
 title: ""
-excerpt: "I love sweets"
-description: "Athénaïs Gautier's homepage"
+description: "Other things I would like to share with you..."
 author_profile: true
 layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   # overlay_image: /assets/images/unsplash-image-1.jpg
 redirect_from: 
   - /baking/
@@ -28,4 +27,8 @@ feature_row:
 
 [Under construction]
 
+# Baking
+
 {% include gallery caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
+
+# Discovering new places !
