@@ -15,13 +15,10 @@ redirect_from:
 gallery_of_sweets:
   - image_path: assets/images/praline.png
     alt: "Pie picture"
-    title: "Dessert 1"
   - image_path: /assets/images/figuier.png
     alt: "Slice of cake"
-    title: "Dessert 2"
   - image_path: /assets/images/galette.png
     alt: "Galette"
-    title: "Dessert 3"
 ---
 
 [Under construction]
