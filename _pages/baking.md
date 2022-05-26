@@ -1,7 +1,7 @@
 ---
 permalink: /bakingandwalking/
-title: ""
-description: "Other things I would like to share with you..."
+title: "Other things I would like to share with you..."
+description: ""
 author_profile: true
 layout: splash
 author_profile: true
