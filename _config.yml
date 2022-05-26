@@ -57,7 +57,7 @@ plugins:
 # Site Author
 author:
   name             : "About me"
-  avatar           : "profile.jpg"
+  avatar           : "assets/images/profile.jpg"
   bio              : "Ph.D. student at the University of Bern, Gaussian Processes enjoyer, baking enthousiast."
   location         : "Bern, Switzerland"
   employer         :
