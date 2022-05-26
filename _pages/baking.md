@@ -1,14 +1,14 @@
 ---
 permalink: /bakingandwalking/
 title: "Other things I would like to share with you..."
-excerpt: "In this page, you can discover some of the things that made me happy over the past years."
+excerpt: "In this page, I invite you to discover some of the things (outside the academic world) that I enjoyed over the last years! "
 author_profile: true
 layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/sunrise.jpeg
+  overlay_image: /assets/images/header2.jpeg
   caption: "The Alps, as seen from the University of Bern"
 redirect_from: 
   - /baking/
@@ -22,11 +22,13 @@ gallery_of_sweets:
     alt: "Galette"
 toc: true
 toc_label: "I want to read more about:"
+toc_icon: "heart" 
 ---
 
-[Under construction]
 
-# Baking
+# My thesis in 180 desserts...
+
+... 180 seconds would have been faster, but not as enjoyable!
 
 {% include feature_row id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
 
