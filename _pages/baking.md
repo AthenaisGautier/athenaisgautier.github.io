@@ -12,7 +12,7 @@ header:
 redirect_from: 
   - /baking/
   - /bakingandwalking/
-feature_row:
+gallery_of_sweets:
   - image_path: assets/images/praline.png
     alt: "Pie picture"
     title: "Dessert 1"
@@ -28,6 +28,6 @@ feature_row:
 
 # Baking
 
-{% include gallery caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
+{% include gallery_of_sweets caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
 
 # Discovering new places !
