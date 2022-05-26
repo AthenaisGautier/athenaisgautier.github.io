@@ -1,13 +1,13 @@
 ---
 permalink: /bakingandwalking/
 title: "Other things I would like to share with you..."
-description: ""
+caption: "Picture taken in Lauterbrunnen, spring 2022"
 author_profile: true
 layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/fieldsofflowers.jpeg
 redirect_from: 
   - /baking/
@@ -19,6 +19,8 @@ gallery_of_sweets:
     alt: "Slice of cake"
   - image_path: /assets/images/galette.png
     alt: "Galette"
+toc: true
+toc_label: "I want to read more about:"
 ---
 
 [Under construction]
