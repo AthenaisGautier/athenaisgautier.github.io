@@ -18,7 +18,9 @@ Past talks
 
 * [*MASCOT 2022 Meeting: oral presentation*](https://mascotnum2022.sciencesconf.org/)  
   Date: June 7, 2022  
-  Venue: Clermont-Ferrand, France
+  Venue: Clermont-Ferrand, France  
+<strong>Distinctions: Best student presentation award.</strong></p>
+
 
 * [*Workshop Toulouse-Bern (or Cassoulet-Fondue)*]()  
   Date: May 3 - 4, 2022  
