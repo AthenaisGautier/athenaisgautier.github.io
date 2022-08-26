@@ -44,5 +44,9 @@ toc_icon: "heart"
 
 ... 180 seconds would have been faster, but not as enjoyable!
 
-{% include feature_row id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
+<ul class="photo-gallery">
+  {% for image in site.gallery_of_sweets %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
 
