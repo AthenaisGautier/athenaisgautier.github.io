@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+Gemfile.lock
 assets/images/canneles.jpeg
 assets/images/tiramisu.jpeg
 assets/images/figuier2.jpeg
