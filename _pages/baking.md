@@ -44,5 +44,5 @@ toc_icon: "heart"
 
 ... 180 seconds would have been faster, but not as enjoyable!
 
-{% include feature_row id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
+{% include gallery id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
 
