@@ -26,6 +26,8 @@ Work experience
   * Research assistant with a strong focus on the Ph.D. topic *Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*.  
   Participating in scientific collaborations. Developing code and reproducible examples (mostly in language R).  
   * Teaching assistant for the institute of statistics at university of Bern:  
+    + R course (Fall term 2022)
+    + Linear models I (Fall term 2022)
 	+ Spatial statistics (Spring term 2022).  
 	+ Statistics for climate sciences I/II (Fall term 2019, spring term 2020, Fall term 2020).  
 	+ Optimization methods (Spring term 2019).  
@@ -45,6 +47,7 @@ At Idiap Research Institute (Martigny, Switzerland)
 Awards or distinctions
 ---
 
+* __Mascot 2022 annual meeting__: Award for the best oral presentation.
 * __Mascot 2021 annual meeting__: Award for the best poster presentation.
 * __SIAM__: Recipient of a travel award for SIAM UQ 2022
 
