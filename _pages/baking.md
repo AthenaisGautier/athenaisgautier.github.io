@@ -20,6 +20,20 @@ gallery_of_sweets:
     alt: "Slice of cake"
   - image_path: /assets/images/galette.png
     alt: "Galette"
+  - image_path: /assets/images/canneles.png
+    alt: "Cannelés"
+  - image_path: /assets/images/figuier2.png
+    alt: "Mini figuier"
+  - image_path: /assets/images/pain.png
+    alt: "Pain au levain"
+  - image_path: /assets/images/praline2.png
+    alt: "Ganache au praliné"
+  - image_path: /assets/images/rhubarbe.png
+    alt: "Tarte à la rhubarbe"
+  - image_path: /assets/images/rizaulait.png
+    alt: "Riz au lait"
+  - image_path: /assets/images/tiramisu.png
+    alt: "Tiramisu"
 toc: true
 toc_label: "I want to read more about:"
 toc_icon: "heart" 
@@ -30,5 +44,5 @@ toc_icon: "heart"
 
 ... 180 seconds would have been faster, but not as enjoyable!
 
-{% include feature_row id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
+{% include gallery id="gallery_of_sweets" caption="When I'm not working, you might find me baking and experimenting new dishes!" %}
 
