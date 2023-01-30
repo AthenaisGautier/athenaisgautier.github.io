@@ -8,11 +8,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<a href="https://github.com/AthenaisGautier/athenaisgautier.github.io/raw/master/assets/CV_AthenaisGautier.pdf">You can download my CV by clicking on this sentence, or read a summary below.</a> 
 
 Education
 ---
 
-* Ph.D. in Statistics, University of Bern (Bern, Switzerland), Nov. 2018 - Nov. 2022 (expected)
+* Ph.D. in Statistics, University of Bern (Bern, Switzerland), Nov. 2018 - June 2023
 * M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
 * M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
 * Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
@@ -30,11 +31,11 @@ Work experience
     + Linear models I (Fall term 2022)
 	+ Spatial statistics (Spring term 2022).  
 	+ Statistics for climate sciences I/II (Fall term 2019, spring term 2020, Fall term 2020).  
-	+ Optimization methods (Spring term 2019).  
+	+ Optimization methods (Spring term 2019, spring term 2023).  
   * Co-supervisor (main supervisor: D. Ginsbourger) of the Master thesis: “Gaussian process regression on molecules: some performance assessments and comparisons”. (2021)  
   * Teaching assistant in the continuing education program Master AI at Idiap Research Institute and Unidistance.  
     + Foundations in statistics for AI (Spring term 2019 and 2020).  
-  * Statistical consultant in the institute of statistics, University of Bern. (Jan. 2021 - ongoing)
+  * Statistical consultant in the institute of statistics, University of Bern. (Jan. 2021 - Jan. 2023)
 
 * __Research Intern__: Mar. - Oct. 2018.  
 At Idiap Research Institute (Martigny, Switzerland)
@@ -43,11 +44,19 @@ At Idiap Research Institute (Martigny, Switzerland)
 * __Engineering Intern__: Summer 2017
   * ELM Leblanc SAS (Drancy, France)
   * Working on "data integration for smart energetic systems"
-
+  
 Awards or distinctions
 ---
 
 * __Mascot 2022 annual meeting__: Award for the best oral presentation.
+* __University of Bern's Fund for the Promotion of Young Researchers__ : Awarded the maximum grant of CHF 5000 to organize a workshop
 * __Mascot 2021 annual meeting__: Award for the best poster presentation.
 * __SIAM__: Recipient of a travel award for SIAM UQ 2022
+
+Academical service
+---
+* In organizing committee : [Lifting Inference with Kernel Embeddings 2023](https://like23-bern.github.io/) *June 26-30, 2023*
+* Main organizer of the workshop : [Current frontiers in Gaussian Processes](https://frontiersgp-bern2022.github.io/) *Aug. 24-26, 2022*
+* In organizing committee and webmaster : [Lifting Inference with Kernel Embeddings 2022](https://like22-bern.github.io/) *Jan. 10-14, 2022*
+* Reviewer for Artificial Intelligence and Statistics (AISTATS) 2022, 2023 and for the workshop : Machine Learning and the Physical Sciences at NeurIPS 2021, 2022. 
 
