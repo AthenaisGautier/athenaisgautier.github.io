@@ -9,9 +9,20 @@ author_profile: true
 
 Upcoming presentations
 ---
- To be updated soon !
 
+* [*mODa 13*](https://statsdavew.github.io/mODa13/)  
+Date: 9-15 July 2023  
+Venue: Southampton, UK  
+Title: *Guiding knowledge acquisition in natural sciences through distribution field estimation*
 
+* **Ph.D. Defense**  
+Date: May 19 2023  
+Venue: University of Bern, Bern, Switzerland  
+
+* [*MASCOT 2022 Meeting: poster presentation*](https://mascotnum2023.sciencesconf.org/)  
+  Date: April 3-6, 2023 
+  Venue: Le Croisic, France  
+Poster title: *Gaussian Processes for Molecules: Performance Assessments, Comparisons and Sequential Design*
 
 Past talks 
 ---
