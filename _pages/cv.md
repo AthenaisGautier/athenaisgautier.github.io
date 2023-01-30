@@ -15,7 +15,7 @@ Education
 
 * Ph.D. in statistics, University of Bern (Bern, Switzerland), Nov. 2018 - June 2023
 * M.S. in Applied Mathematics, University Paris Dauphine (Paris, France), 2017 - 2018
-* M.S. in Engineering and Applied Mathematics, Ecole des Mines de Saint-Etienne, 2015 - 2018
+* M.Eng. in Data Sciences and Statistics, Ecole des Mines de Saint-Etienne, 2015 - 2018
 * Preparatory classes, Lycée Henri IV (Paris, France), 2013 - 2015
 
 Work experience
