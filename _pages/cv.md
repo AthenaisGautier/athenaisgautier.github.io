@@ -24,18 +24,18 @@ Work experience
 * __Research and Teaching assistant__: Nov. 2018 - Actual  
   At the *institute of statistics and actuarial sciences*, University of Bern (Bern, Switzerland).  
   Until May 2020, the affiliation was shared with Idiap Research Institute (Martigny, Switzerland).  
-  * Research assistant with a strong focus on the Ph.D. topic *Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*.  
-  Participating in scientific collaborations. Developing code and reproducible examples (mostly in R).  
+  * Research assistant with a strong focus on the Ph.D. topic. Active participation in scientific collaborations, proficiency in coding and creating reproducible examples using R language. Main research interests: Uncertainty Quantification, Gaussian Processes, Bayesian Optimization, Bayesian Statistics, Computer simulation models.
+  * Senior consultant of the institute of statistics, University of Bern. Helping academics and companies planning and conducting statistical analysis (Jan. 2021 - Dec. 2023)
+        
   * Teaching assistant for the institute of statistics at University of Bern:  
     + R course (Fall term 2022).
     + Linear models I (Fall term 2022).
-	+ Spatial statistics (Spring term 2022).  
-	+ Statistics for climate sciences I/II (Fall term 2019, Spring term 2020, Fall term 2020).  
-	+ Optimization methods (Spring term 2019, Spring term 2023).  
+    + Spatial statistics (Spring term 2022).  
+    + Statistics for climate sciences I/II (Fall term 2019, Spring term 2020, Fall term 2020).  
+    + Optimization methods (Spring term 2019, Spring term 2023).  
   * Co-supervisor (main supervisor: D. Ginsbourger) of the Master thesis: “Gaussian process regression on molecules: some performance assessments and comparisons”. (2021)  
   * Teaching assistant in the continuing education program Master AI at Idiap Research Institute and Unidistance.  
     + Foundations in statistics for AI (Spring term 2019 and 2020).  
-  * Statistical consultant in the institute of statistics, University of Bern. (Jan. 2021 - Jan. 2023).
 
 * __Research Intern__: Mar. - Oct. 2018.  
 At Idiap Research Institute (Martigny, Switzerland)
