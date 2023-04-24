@@ -17,5 +17,7 @@ Since November 2018, I am doing my PhD at the IMSV, Departement of Mathematics a
 
 Currently, I am thrilled to be in the organisation committee of [Lifting Inference with Kernel Embeddings (LIKE23)](https://like23-bern.github.io/), check it out! 
 
-My research interests include, but are not restricted to Gaussian processes and uncertainty quantification, density estimation, non-parametric Bayesian approaches, stochastic optimisation and stochastic inverse problems.  
+My research interests include, but are not restricted to Gaussian processes and uncertainty quantification, density estimation, non-parametric Bayesian approaches, stochastic optimisation and stochastic inverse problems.
+
+More recently, co-supervising a Master thesis allowed me to start working on Gaussian Processes surrogates to guide molecular discovery, I'm eager to explore this domain more!
 
