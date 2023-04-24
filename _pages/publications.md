@@ -11,6 +11,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+Ph.D. Manuscript
+---
+ * *Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*
+Status: Submitted to the faculty of science, available online soon. 
+
 Papers
 ---
 
