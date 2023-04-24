@@ -19,13 +19,15 @@ Title: *Guiding knowledge acquisition in natural sciences through distribution f
 Date: May 19 2023  
 Venue: University of Bern, Bern, Switzerland  
 
+
+Past talks 
+---
+
 * [*MASCOT 2022 Meeting: poster presentation*](https://mascotnum2023.sciencesconf.org/)  
   Date: April 3-6, 2023 
   Venue: Le Croisic, France  
 Poster title: *Gaussian Processes for Molecules: Performance Assessments, Comparisons and Sequential Design*
 
-Past talks 
----
 
 * [*MASCOT 2022 Meeting: oral presentation*](https://mascotnum2022.sciencesconf.org/)  
   Date: June 7, 2022  
