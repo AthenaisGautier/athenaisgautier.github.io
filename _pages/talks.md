@@ -23,7 +23,7 @@ Venue: University of Bern, Bern, Switzerland
 Past talks 
 ---
 
-* [*MASCOT 2022 Meeting: poster presentation*](https://mascotnum2023.sciencesconf.org/)  
+* [*MASCOT 2023 Meeting: poster presentation*](https://mascotnum2023.sciencesconf.org/)  
   Date: April 3-6, 2023 
   Venue: Le Croisic, France  
 Poster title: *Gaussian Processes for Molecules: Performance Assessments, Comparisons and Sequential Design*
