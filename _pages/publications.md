@@ -13,7 +13,7 @@ author_profile: true
 
 Ph.D. Manuscript
 ---
- * *Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*
+ * [*Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*]()  
 Status: Submitted to the faculty of science, available online soon. 
 
 Papers
