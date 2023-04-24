@@ -43,7 +43,7 @@ At Idiap Research Institute (Martigny, Switzerland)
 
 * __Engineering Intern__: Summer 2017
   * ELM Leblanc SAS (Drancy, France)
-  * Working on "data integration for smart energetic systems".
+  * Working on "data integration for smart energetic systems": identifying exploitable data, possible applications and inherent risks.
   
 Awards or distinctions
 ---
@@ -58,5 +58,7 @@ Academical service
 * In organizing committee : [Lifting Inference with Kernel Embeddings 2023](https://like23-bern.github.io/) *June 26-30, 2023*.
 * Main organizer of the workshop : [Current frontiers in Gaussian Processes](https://frontiersgp-bern2022.github.io/) *Aug. 24-26, 2022*.
 * In organizing committee and webmaster : [Lifting Inference with Kernel Embeddings 2022](https://like22-bern.github.io/) *Jan. 10-14, 2022*.
-* Reviewer for Artificial Intelligence and Statistics (AISTATS) 2022, 2023 and for the workshop : Machine Learning and the Physical Sciences at NeurIPS 2021, 2022. 
+* Reviewer for Artificial Intelligence and Statistics (AISTATS) 2022, 2023
+* Reviewer for the workshop : Machine Learning and the Physical Sciences at NeurIPS 2021, 2022. 
+* Reviewer for the workshop: Synergy of Scientific and Machine Learning Modeling at ICML 2023.
 
