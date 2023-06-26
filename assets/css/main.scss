@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@media (min-width: 80em) {
+@media (min-width: 800em) {
 .sidebar__right {
     width: 800px;
     margin-right: -300px;
