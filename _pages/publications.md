@@ -14,7 +14,7 @@ author_profile: true
 Ph.D. Manuscript
 ---
  * [*Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*](https://boristheses.unibe.ch/4377/)  
-Status: Submitted to the faculty of science, available online soon. 
+Status: Accepted by the faculty of science, available. 
 
 Papers
 ---
