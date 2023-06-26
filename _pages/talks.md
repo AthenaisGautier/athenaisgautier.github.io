@@ -10,18 +10,14 @@ author_profile: true
 Upcoming presentations
 ---
 
-* [*mODa 13*](https://statsdavew.github.io/mODa13/)  
-Date: 9-15 July 2023  
-Venue: Southampton, UK  
-Title: *Guiding knowledge acquisition in natural sciences through distribution field estimation*
+I am enjoying the summer with my family before going back to research, no doubts I will have other featured talks soon :)
+
+Past talks 
+---
 
 * **Ph.D. Defense**  
 Date: May 19 2023  
 Venue: University of Bern, Bern, Switzerland  
-
-
-Past talks 
----
 
 * [*MASCOT 2023 Meeting: poster presentation*](https://mascotnum2023.sciencesconf.org/)  
   Date: April 3-6, 2023 
