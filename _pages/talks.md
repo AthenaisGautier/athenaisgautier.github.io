@@ -14,6 +14,9 @@ I am enjoying the summer with my family before going back to research, no doubts
 
 Past talks 
 ---
+* [*Workshop in statistical inference*]()  
+Date: June 5-6 2023  
+Venue: Federal Sports Office, Macolin, Switzerland  
 
 * **Ph.D. Defense**  
 Date: May 19 2023  
@@ -66,7 +69,7 @@ Presented Ph.D. project and current work during an academic visit.</p>
 <li><p><a href="https://www.math.univ-toulouse.fr/spip.php?article276"><em>Séminaire de Statistique et Optimisation</em></a>
 Date: October 05, 2021<br />
 Venue: Institut de Mathématiques de Toulouse, France<br />
-Presented Ph.D. project and current work to members of both research group during an academic visit.</p>
+Presented Ph.D. project and current work during an academic visit.</p>
 </li>
 <li><p><a href="https://sites.google.com/view/ai4s21/home"><em>Workshop on Accelerated statistical inference for the sciences</em></a><br />
 Date: September 06-07, 2021<br />
