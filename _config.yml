@@ -58,8 +58,8 @@ plugins:
 author:
   name             : "About me"
   avatar           : "assets/images/def.png"
-  bio              : "Ph.D. student at the University of Bern, Gaussian Processes enjoyer, baking enthousiast."
-  location         : "Bern, Switzerland"
+  bio              : "Postdoctoral researcher with a PhD in stats, Uncertainty Quantification enjoyer, baking enthousiast."
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=buBt8TMAAAAJ"
