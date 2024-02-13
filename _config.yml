@@ -58,7 +58,7 @@ plugins:
 author:
   name             : "About me"
   avatar           : "assets/images/def.png"
-  bio              : "Postdoctoral researcher with a PhD in stats, Uncertainty Quantification enjoyer, baking enthousiast."
+  bio              : "Postdoctoral researcher, Uncertainty Quantification enjoyer, baking enthousiast."
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
