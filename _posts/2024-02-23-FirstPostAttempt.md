@@ -2,7 +2,7 @@
 title: "This is my first post"
 date: 2024-02-23
 categories:
-  - Attempt
+  - Projects
 tags:
   - R
   - SLGP
