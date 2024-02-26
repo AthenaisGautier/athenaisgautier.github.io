@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Welcome to this second post"
 date: 2024-02-23
 html_path: "/assets/HTMLpages/DisplaySLGPWeb.html"
