@@ -2,7 +2,7 @@
 title: "Welcome to this first post"
 date: 2024-02-23
 categories:
-  - Project
+  - Projects
 tags:
   - R
   - SLGP
