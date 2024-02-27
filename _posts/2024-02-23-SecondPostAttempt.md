@@ -1,5 +1,5 @@
 ---
-title: "Welcome to this first post"
+title: "Welcome to this second post"
 date: 2024-02-23
 categories:
   - Projects
