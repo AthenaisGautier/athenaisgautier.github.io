@@ -20,8 +20,15 @@ Education
 
 Work experience
 ---
+* __Research Engineer__: Since Oct. 2024  
+  At *ONERA – The French Aerospace Lab* (Palaiseau, France).  
+  * Working on uncertainty quantification and multidisciplinary optimization.  
 
-* __Research and Teaching assistant__: Nov. 2018 - Actual  
+* __Postdoctoral Researcher__: Sept. 2023 – June 2024  
+  At *McGill University* (Montréal, QC, Canada).  
+  * Research in statistics and geostatistics: probabilistic modeling of mineral resources through itegration of expert knowledge and real drilling data.
+    
+* __Research and Teaching assistant__: Nov. 2018 - June 2023  
   At the *institute of statistics and actuarial sciences*, University of Bern (Bern, Switzerland).  
   Until May 2020, the affiliation was shared with Idiap Research Institute (Martigny, Switzerland).  
   * Research assistant with a strong focus on the Ph.D. topic. Active participation in scientific collaborations, proficiency in coding and creating reproducible examples using R language. Main research interests: Uncertainty Quantification, Gaussian Processes, Bayesian Optimization, Bayesian Statistics, Computer simulation models.
