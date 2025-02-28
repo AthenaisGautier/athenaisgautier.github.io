@@ -58,8 +58,8 @@ plugins:
 author:
   name             : "About me"
   avatar           : "assets/images/def.png"
-  bio              : "Postdoctoral researcher, Uncertainty Quantification enjoyer, baking enthousiast."
-  location         : "Montreal, Canada"
+  bio              : "Research engineer, Uncertainty Quantification enjoyer, baking enthousiast."
+  location         : "Paris, France
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=buBt8TMAAAAJ"
