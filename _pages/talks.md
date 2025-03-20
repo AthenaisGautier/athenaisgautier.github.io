@@ -14,6 +14,19 @@ I am enjoying the summer with my family before going back to research, no doubts
 
 Past talks 
 ---
+
+* [*IMSV Research Workshop*](https://www.imsv.unibe.ch/research/talks/imsv_research_workshop_july_2024/index_eng.html)  
+Date: July 1-2 2024  
+Venue: University of Bern, Switzerland
+
+* [*COSMO Technical Day*]()  
+Date: June 14 2024 
+Venue: McGill University, Montréal, Canada
+
+* [*Seminar in geostatistics*](https://sites.google.com/view/geostat-fbleau/s%C3%A9minaires?authuser=0)
+  Date: May 13, 2024
+  Venue: Centre de Géosciences, Mines Paris - PSL, Fontainebleau, France
+
 * [*Workshop in statistical inference*]()  
 Date: June 5-6 2023  
 Venue: Federal Sports Office, Macolin, Switzerland  
