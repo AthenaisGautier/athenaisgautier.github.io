@@ -19,6 +19,10 @@ Status: Accepted by the faculty of science, available.
 Papers
 ---
 
+  * [*CRPS-Based Targeted Sequential Design with Application in Chemical Space*]([https://arxiv.org/abs/2110.02876](https://arxiv.org/abs/2503.11250))  
+Status: Preprint available  
+Work by Lea Friedli, *A.G*, Anna Broccard and David Ginsbourger  
+
   * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://arxiv.org/abs/2110.02876)  
 Status: Preprint available  
 Joint work with David Ginsbourger  
