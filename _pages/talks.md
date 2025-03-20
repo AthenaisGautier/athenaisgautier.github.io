@@ -23,9 +23,9 @@ Venue: University of Bern, Switzerland
 Date: June 14 2024 
 Venue: McGill University, Montréal, Canada
 
-* [*Seminar in geostatistics*](https://sites.google.com/view/geostat-fbleau/s%C3%A9minaires?authuser=0)
-  Date: May 13, 2024
-  Venue: Centre de Géosciences, Mines Paris - PSL, Fontainebleau, France
+* [*Seminar in geostatistics*](https://sites.google.com/view/geostat-fbleau/s%C3%A9minaires?authuser=0)  
+  Date: May 13, 2024  
+  Venue: Centre de Géosciences, Mines Paris - PSL, Fontainebleau, France  
 
 * [*Workshop in statistical inference*]()  
 Date: June 5-6 2023  
