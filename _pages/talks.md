@@ -46,7 +46,6 @@ Poster title: *Gaussian Processes for Molecules: Performance Assessments, Compar
   Venue: Clermont-Ferrand, France  
 <strong>Distinctions: Best student presentation award.</strong>
 
-
 * [*Workshop Toulouse-Bern (or Cassoulet-Fondue)*]()  
   Date: May 3 - 4, 2022  
   Venue: University of Bern, Switzerland
