@@ -20,7 +20,7 @@ Papers
 ---
 
 
-  * [*SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*]()  
+  * *SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*  
 Status: Submitted (2026)
 Work by *A.G*
 
