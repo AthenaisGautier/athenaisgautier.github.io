@@ -19,12 +19,22 @@ Status: Accepted by the faculty of science, available.
 Papers
 ---
 
+
+  * [*SLGP for spatially dependent discrete outputs]{SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*]()  
+Status: Submitted (2026)
+Work by *A.G*
+
+  * *Spatial Logistic Gaussian Process (SLGP): Implementing a nonparametric approach to conditional density estimation on heterogeneous data*  
+  [Download PDF](https://username.github.io/files/slgp.pdf](https://github.com/AthenaisGautier/SLGPImplementation/blob/ae654ba1298acfaef306a1e825b6288f6829b95c/paper_implementation.pdf)
+Status: Submitted (2026)
+Work by *A.G*
+
   * [*CRPS-Based Targeted Sequential Design with Application in Chemical Space*](https://arxiv.org/abs/2503.11250)  
 Status: Preprint available  
 Work by Lea Friedli, *A.G*, Anna Broccard and David Ginsbourger  
 
   * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://arxiv.org/abs/2110.02876)  
-Status: Preprint available  
+Status: Accepted by the Annals of the Institute of Statistical Mathematics. 
 Joint work with David Ginsbourger  
 
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://doi.org/10.1051/proc/202171108)  
