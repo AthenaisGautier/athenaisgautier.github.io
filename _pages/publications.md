@@ -20,12 +20,12 @@ Papers
 ---
 
 
-  * [*SLGP for spatially dependent discrete outputs]{SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*]()  
+  * [*SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*]()  
 Status: Submitted (2026)
 Work by *A.G*
 
   * *Spatial Logistic Gaussian Process (SLGP): Implementing a nonparametric approach to conditional density estimation on heterogeneous data*  
-  [Download PDF](https://username.github.io/files/slgp.pdf](https://github.com/AthenaisGautier/SLGPImplementation/blob/ae654ba1298acfaef306a1e825b6288f6829b95c/paper_implementation.pdf)
+  [Download PDF](https://github.com/AthenaisGautier/SLGPImplementation/blob/ae654ba1298acfaef306a1e825b6288f6829b95c/paper_implementation.pdf)
 Status: Submitted (2026)
 Work by *A.G*
 
