@@ -13,20 +13,20 @@ Upcoming presentations
 I am enjoying the summer with my family before going back to research, no doubts I will have other featured talks soon :)
 
 * [*ETICS 2026: featured talks*](https://uq.math.cnrs.fr/etics)  
-Date: September 27 - October 2 2026
-Venue: Amboise, France
+Date: September 27 - October 2 2026  
+Venue: Amboise, France  
 
 
 Past talks 
 ---
 
 * [*mODa 14*](https://martinavandebroek.github.io/mODa14/DETAILS.html)  
-Date: June 14-19 2026
-Venue: Drongen, Belgium
+Date: June 14-19 2026  
+Venue: Drongen, Belgium  
 
 * [*Isaac Newton Institute for mathematical sciences*](https://www.newton.ac.uk/seminar/47240/)  
-Date: July 1 2025 
-Venue: Cambridge, UK
+Date: July 1 2025   
+Venue: Cambridge, UK  
 
 * [*IMSV Research Workshop*](https://www.imsv.unibe.ch/research/talks/imsv_research_workshop_july_2024/index_eng.html)  
 Date: July 1-2 2024  
