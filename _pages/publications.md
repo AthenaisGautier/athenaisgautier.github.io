@@ -34,17 +34,17 @@ Status: Accepted / to appear - Journal of Computational and Graphical Statistics
 Work by Lea Friedli, *A.G*, Anna Broccard and David Ginsbourger  
 
   * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://link.springer.com/article/10.1007/s10463-025-00968-3)  
-Status: Published in the Annals of the Institute of Statistical Mathematics. 
-Joint work with David Ginsbourger  
+Status: Published in the Annals of the Institute of Statistical Mathematics.  
+Work *A.G* and David Ginsbourger   
 
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://doi.org/10.1051/proc/202171108)  
 Status: Published in ESAIM: Proceedings and Surveys: August 2021, Vol. 71, p. 89-100  
-Joint work with David Ginsbourger and Guillaume Pirot
+Work by *A.G*, David Ginsbourger and Guillaume Pirot
 
 
 Workshop papers
 ---
   * [*Probabilistic ABC with Spatial Logistic Gaussian Process modelling*](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_112.pdf)  
 Status: Published in the Third Workshop on Machine Learning and the Physical Sciences, NeurIPS 2020.  
-Joint work with David Ginsbourger and Guillaume Pirot
+Work by *A.G*, David Ginsbourger and Guillaume Pirot
 
