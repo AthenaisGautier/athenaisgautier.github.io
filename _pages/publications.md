@@ -21,7 +21,7 @@ Papers
 
 
   * *SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*  
-Status: Accepted in MODA 14 proceedings, Statistical Papers (2026)
+Status: Accepted / to appear - MODA 14 proceedings, Statistical Papers (2026)
 Work by *A.G*
 
   * *Spatial Logistic Gaussian Process (SLGP): Implementing a nonparametric approach to conditional density estimation on heterogeneous data*  
@@ -30,7 +30,7 @@ Status: Submitted (2026)
 Work by *A.G*
 
   * [*CRPS-Based Targeted Sequential Design with Application in Chemical Space*](https://arxiv.org/abs/2503.11250)  
-Status: Preprint available  
+Status: Accepted / to appear - Journal of Computational and Graphical Statistics 
 Work by Lea Friedli, *A.G*, Anna Broccard and David Ginsbourger  
 
   * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://link.springer.com/article/10.1007/s10463-025-00968-3)  
