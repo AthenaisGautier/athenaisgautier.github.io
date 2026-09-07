@@ -21,7 +21,7 @@ Papers
 
 
   * *SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*  
-Status: Submitted (2026)
+Status: Accepted in MODA 14 proceedings, Statistical Papers (2026)
 Work by *A.G*
 
   * *Spatial Logistic Gaussian Process (SLGP): Implementing a nonparametric approach to conditional density estimation on heterogeneous data*  
@@ -33,8 +33,8 @@ Work by *A.G*
 Status: Preprint available  
 Work by Lea Friedli, *A.G*, Anna Broccard and David Ginsbourger  
 
-  * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://arxiv.org/abs/2110.02876)  
-Status: Accepted by the Annals of the Institute of Statistical Mathematics. 
+  * [*Continuous logistic Gaussian random measure fields for spatial distributional modelling*](https://link.springer.com/article/10.1007/s10463-025-00968-3)  
+Status: Published in the Annals of the Institute of Statistical Mathematics. 
 Joint work with David Ginsbourger  
 
   * [*Goal-oriented adaptive sampling under random field modelling of response probability distributions*](https://doi.org/10.1051/proc/202171108)  
