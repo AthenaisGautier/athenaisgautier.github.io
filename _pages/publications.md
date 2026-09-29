@@ -11,21 +11,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Ph.D. Manuscript
----
- * [*Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*](https://boristheses.unibe.ch/4377/)  
-Status: Accepted by the faculty of science, available. 
-
 Papers
 ---
-
 
   * *SLGP-based surrogates for spatially dependent discrete outputs: modelling, uncertainty quantification, and data acquisition.*  
 Status: Accepted / to appear - MODA 14 proceedings, Statistical Papers (2026)  
 Work by *A.G*
 
-  * *Spatial Logistic Gaussian Process (SLGP): Implementing a nonparametric approach to conditional density estimation on heterogeneous data*  
-  [Download PDF](https://github.com/AthenaisGautier/SLGPImplementation/blob/ae654ba1298acfaef306a1e825b6288f6829b95c/paper_implementation.pdf)
+  * [*SLGP: An R Package for Spatial Conditional Density Estimation*](https://arxiv.org/abs/2609.33827)
 Status: Submitted (2026)  
 Work by *A.G*
 
@@ -41,10 +34,22 @@ Work *A.G* and David Ginsbourger
 Status: Published in ESAIM: Proceedings and Surveys: August 2021, Vol. 71, p. 89-100  
 Work by *A.G*, David Ginsbourger and Guillaume Pirot
 
+Software  
+---
+  * [*R package: SLGP*](https://cran.r-project.org/web/packages/SLGP/index.html)
+
+
 
 Workshop papers
 ---
   * [*Probabilistic ABC with Spatial Logistic Gaussian Process modelling*](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_112.pdf)  
 Status: Published in the Third Workshop on Machine Learning and the Physical Sciences, NeurIPS 2020.  
 Work by *A.G*, David Ginsbourger and Guillaume Pirot
+
+
+
+Ph.D. Manuscript
+---
+ * [*Modelling and predicting distribution-valued fields with applications to inversion under uncertainty*](https://boristheses.unibe.ch/4377/)  
+Status: Accepted by the faculty of science, available. 
 
