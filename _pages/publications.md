@@ -18,7 +18,7 @@ Papers
 Status: Accepted / to appear - MODA 14 proceedings, Statistical Papers (2026)  
 Work by *A.G*
 
-  * [*SLGP: An R Package for Spatial Conditional Density Estimation*](https://arxiv.org/abs/2609.33827)
+  * [*SLGP: An R Package for Spatial Conditional Density Estimation*](https://arxiv.org/abs/2609.33827)  
 Status: Submitted (2026)  
 Work by *A.G*
 
